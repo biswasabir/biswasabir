@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @biswasabir
-- 👀 I’m interested in Full Stack Development, Cross Platform App Development and Blockchain  
-- 🌱 I’m currently learning Blockchain  
+- 👀 A MERN Stack developer and a React Native developer.
 - 📫 Reach me at biswasabir.coder@gmail.com
 
 <!---
